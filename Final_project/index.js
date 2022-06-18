@@ -166,7 +166,7 @@ function displayUserDetails(){
         Last Name : ${user.LastName}
 
         `)
-        // console.log(username, password, passwordconfirm)
+        console.log(username, password, passwordconfirm)
 }
 
 
